@@ -1,7 +1,7 @@
 # Horiseon Refactor Challenge
 
 ## Project Description
-Given a starting base of HTML and CSS - the task here was to logically identify each area of the webpage and assign Semantic HTML in the appropriate places, as well as add image alt attributes - both of which will increase the Search Engine Optimization of the Horiseon website. Further, edits were applied to the CSS to align with the revised Semantic HTML document structure, and consolidating redundant styles where possible.
+Given a starting base of HTML and CSS - the task here was to logically identify each area of the webpage and assign Semantic HTML in the appropriate places, as well as add image alt attributes - both of which will increase the Search Engine Optimization of the Horiseon website. Further, edits were applied to the CSS to align with the revised Semantic HTML document structure, and redundant styles consolidated where possible.
 
 ## Contents
 1. [Deployed Page](#deployed-page)
